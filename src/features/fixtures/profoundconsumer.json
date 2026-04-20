@@ -1,0 +1,75 @@
+{
+  "batchKey": "9ceee0a7-cce7-4ea9-98ee-4406fdc4f9a1_2026-03-09T11:12:51.664Z",
+  "partitionKey": "ffa024e8-59f7-4675-af68-59beb203042f_2026-03-09T11:12:51.664Z",
+  "createdAt": "2026-03-09T11:12:51.664Z",
+  "nativeBusinessId": "9ceee0a7-cce7-4ea9-98ee-4406fdc4f9a1",
+  "category": {
+    "categoryId": "9ceee0a7-cce7-4ea9-98ee-4406fdc4f9a1",
+    "categoryName": "Retail Jewelry",
+    "topic": {
+      "topicId": "5edad29d-2db7-4da4-b480-26668d114f0f",
+      "topicName": "Oval Enagagement Rings",
+      "prompt": {
+        "asset": "best affordable oval engagement rings online",
+        "promptName": "best affordable oval engagement rings online",
+        "promptId": "ffa024e8-59f7-4675-af68-59beb203042f",
+        "promptType": "open-ended",
+        "tags": ["POC"],
+        "metrics": {
+          "visibility": 7.4,
+          "shareOfVoice": 1,
+          "mentionsCount": 37,
+          "executions": 5
+        },
+        "models": [
+          {
+            "runId": "80a5c3e8-fef9-4579-ba30-3cc6f357286f",
+            "createdAt": "2026-03-08T09:14:51.590298",
+            "mentions": [
+              "Quince",
+              "MoissaniteCo",
+              "MollyJewelryUS",
+              "Grown Brilliance",
+              "Clean Origin",
+              "Vrai",
+              "Rare Carat",
+              "Brilliance",
+              "Blue Nile",
+              "James Allen"
+            ],
+            "response": "Finding an affordable oval engagement ring online in 2026 is easier than ever, thanks to the massive growth of the lab-grown diamond market and competitive online-only pricing. \n\nHere is a breakdown of the best reputable retailers for high-quality, budget-friendly oval rings.\n\n---\n\n## 💎 Best Overall for Value & Customization\nThese retailers allow you to \"build your own\" ring, which is almost always the most cost-effective way to get exactly what you want.\n\n| Retailer | Why It’s Great | Typical Starting Price (approx.) |\n| :--- | :--- | :--- |\n| **James Allen** | Best 360° HD viewing tools; you can see every detail of your specific oval stone. | **$1,500 – $2,500** (Lab Diamond + 14k Setting) |\n| **Blue Nile** | Massive inventory and a \"Clear the Vault\" clearance section with up to 50% off. | **$1,800+** (Ready-to-ship styles) |\n| **Brilliance** | Frequently cited for some of the lowest prices on lab-grown ovals (often under $1,500). | **$1,200 – $1,800** |\n| **Rare Carat** | Acts as a price aggregator to help you find the cheapest certified stone across many vendors. | **$900 – $1,500** |\n\n---\n\n## 🌿 Best for Lab-Grown Specialists\nIf you want a larger oval stone without the \"mined\" price tag, these brands focus heavily on sustainability and lab diamonds.\n* **Vrai:** Known for zero-emission diamonds and sleek, minimalist settings. They cut their own diamonds, removing the middleman.\n* **Clean Origin:** A specialist in lab-grown stones with a huge selection of oval shapes and very competitive \"Direct-to-Consumer\" pricing.\n* **Grown Brilliance:** Offers a \"Design Your Own\" feature that is very user-friendly for first-time buyers and often has promo codes for $200+ off.\n\n---\n\n## 💰 Best Ultra-Budget Options (Under $1,000)\nIf you are looking for maximum \"sparkle-per-dollar\" or a placeholder ring, consider these alternatives:\n* **Moissanite:** Stones from places like **MollyJewelryUS** or **MoissaniteCo** look nearly identical to diamonds but cost a fraction of the price. You can get a 2-carat oval moissanite in a gold setting for **$600 – $900**.\n* **Quince:** A \"luxury essentials\" brand that has entered the fine jewelry space with high-quality, ethically sourced 14k gold and lab diamond ovals at wholesale prices.\n* **Modern Gents:** Ideal for travel rings or extremely tight budgets; they use high-grade simulated diamonds (CZ) in sterling silver or plated gold, often for **under $150**.\n\n---\n\n### 💡 Pro-Tips for Saving on Ovals\n1.  **Look for the \"Bow-Tie\":** Oval diamonds can have a dark shadow in the center (the bow-tie effect). Using **James Allen's** 360° video is the best way to ensure your \"affordable\" stone doesn't have a glaring dark spot.\n2.  **Go Lab-Grown:** In 2026, lab-grown diamonds are chemically identical to mined ones but cost 60–80% less.\n3.  **Mind the \"Crushed Ice\":** Some cheaper ovals have a \"crushed ice\" look (many tiny facets). If you want the classic \"brilliant\" look, check the grading report for \"Oval Brilliant\" rather than \"Modified Brilliant.\"\n\n**Would you like me to find a specific stone-and-setting combo within a certain budget (e.g., \"1.5 carat oval under $2,000\")?**\n\nBy the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).",
+            "citations": [],
+            "themes": [],
+            "searchQueries": [],
+            "region": "United States",
+            "model": "Google Gemini",
+            "modelId": "ab90373a-d015-4feb-a7ee-fd9536a0ec53"
+          },
+          {
+            "runId": "292ca542-d1cc-47be-a53a-dda74eef0b98",
+            "createdAt": "2026-03-08T09:36:20.476890",
+            "mentions": [
+              "Modern Gents",
+              "Jeulia",
+              "Stella Grace"
+            ],
+            "response": "Here are some **great affordable oval engagement rings you can shop online** — from budget‑friendly moissanite & CZ options to classic diamond styles that stay within a reasonable range. Oval cut diamonds and alternatives are often *more affordable than round cuts* with a similar face‑up size. \n\n \n\n### 💎 Best Value for Budget\n- ** ** – Sparkling moissanite looks like a high‑end diamond at a modest price (~$660).  \n- ** ** – Great price (~$259) if you want a big, brilliant stone on a budget.  \n- ** ** – Engagement + matching band set under $100.  \n- ** ** – Excellent 4.5★ choice under ~$120 with classic styling.\n\n### 💍 Stylish and Affordable Picks\n- ** ** – Highly rated stylish oval ring (~$130).  \n- ** ** – Unique affordable design (~$130) if you want something a little different.  \n- ** ** – Budget pick (~$40) with bold sparkle.\n\n### 💎 Classic Diamond Cut (Affordable Diamond Option)\n- ** ** – A real diamond option from a trusted jeweler (~$900), great for a long‑lasting classic engagement ring.\n\n### 💡 Tips for Affordable Engagement Rings Online\n- Oval cuts **typically cost 10–30% less than round diamonds** for similar size and brilliance.   \n- Consider **moissanite or lab‑grown diamonds** — they offer excellent sparkle and durability without the premium price of mined diamonds.   \n- Buying from online retailers often gives more **selection and better prices than traditional stores**. \n\nWould you like suggestions specifically under a certain budget (e.g., under $500 or under $1,000)?💍",
+            "citations": [
+              "https://www.diamondsfactory.com/engagement-rings/oval?utm_source=chatgpt.com",
+              "https://www.theknot.com/content/should-you-buy-your-engagement-ring-online?utm_source=chatgpt.com",
+              "https://www.forbes.com/sites/forbes-personal-shopper/2026/02/02/best-affordable-engagement-rings/?utm_source=chatgpt.com"
+            ],
+            "themes": [],
+            "searchQueries": [
+              "best affordable oval engagement rings online",
+              "oval engagement rings affordable online reviews best budget oval engagement rings"
+            ],
+            "region": "United States",
+            "model": "ChatGPT",
+            "modelId": "8e582977-dcf2-428f-9a1c-085c578ceeb8"
+          }
+        ]
+      }
+    }
+  }
+}

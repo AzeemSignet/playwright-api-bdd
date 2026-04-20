@@ -1,0 +1,34 @@
+{
+  "name": "playwright-api-bdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "runtest.bat",
+    "test:report": "runtest.bat",
+    "test:validation": "npx tsx src/utils/validationTest.ts",
+    "dashboard": "node dashboard.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.5.0",
+    "@playwright/test": "^1.57.0",
+    "@types/xml2js": "^0.4.14",
+    "chai": "^6.2.2",
+    "csv-parse": "^5.5.6",
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@cucumber/html-formatter": "^22.3.0",
+    "@types/chai": "^5.2.3",
+    "@types/node": "^25.0.3"
+  }
+}

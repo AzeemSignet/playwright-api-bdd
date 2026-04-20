@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<properties><entry key="eventID">2705598375</entry><entry key="eventType">1</entry><entry key="nodeID">291403341</entry><entry key="nodeType">Entity</entry><entry key="eventCreationTime">2023-12-10 00:22:38.0</entry><entry key="eventRevision">0.210</entry><entry key="messageCreationTime">2023-12-10 01:35:48.965</entry></properties>-->
+<!-- Configuration:<STEP-ProductInformation ResolveInlineRefs="true" ExportDeletedData="true"><Entities><FilterUserType ID="STORE"/><Entity><Name/><Values/></Entity></Entities><DataContainers/></STEP-ProductInformation>Effective date: 2023-12-10 01:35:48Classifications AllProducts AllAssets AllExported by domain exporter.-->
+<STEP-ProductInformation ExportTime="2023-12-10 01:35:48" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <Entity ID="291403341" UserTypeID="STORE" ParentID="ZALES">
+            <Name>1757</Name>
+            <Values>
+                <Value AttributeID="TEMP_P_LONGITUDE">-80.11311417</Value>
+                <Value AttributeID="CURBSIDE_SAT_VALID" ID="0">Y</Value>
+                <Value AttributeID="TRANS_FEDEX_GROUND">219077</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_7" ID="0">NO</Value>
+                <Value AttributeID="TOTAL_DSC_SF">0</Value>
+                <Value AttributeID="CURBSIDE_SUN_VALID" ID="0">Y</Value>
+                <Value AttributeID="STANDUP_LF">110</Value>
+                <Value AttributeID="BOPIS_TUE_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="LIFETIME_BATTERY_PRICE_CODE">4</Value>
+                <Value AttributeID="STD_BOPIS_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="TEMP_P_LATITUDE">26.13665509</Value>
+                <Value AttributeID="LAST_UPDATED_BY">0</Value>
+                <Value AttributeID="Profit_Center">1757</Value>
+                <Value AttributeID="SHOPPING_CENTER">FL0300</Value>
+                <Value AttributeID="TRANS_FEDEX_METER_NUMBER">104033372</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_6" ID="2">New Holiday dollars Active</Value>
+                <Value AttributeID="CURBSIDE_SAT_START_TIME">11:00 AM</Value>
+                <Value AttributeID="STD_CURBSIDE_ELIGIBLE_FLAG" ID="1">N</Value>
+                <Value AttributeID="MANAGEMENT_COMPANY">JLL</Value>
+                <Value AttributeID="LOCATION_CODE">01757</Value>
+                <Value AttributeID="MALL_GRADE">A-</Value>
+                <Value AttributeID="REGION_1">Broward</Value>
+                <Value AttributeID="TANGO_STORE_ID">129750</Value>
+                <Value AttributeID="STORE_NAME">ZALES JEWELERS</Value>
+                <Value AttributeID="AMEX_MERCH_NO">0</Value>
+                <Value AttributeID="CURBSIDE_SUN_START_TIME" Changed="true">12:00 PM</Value>
+                <Value AttributeID="CENTER_TYPE">Enclosed Mall/Outlet Center</Value>
+                <Value AttributeID="TANGO_ADD_USER">Administrator</Value>
+                <Value AttributeID="SITE_TYPE">Mall</Value>
+                <Value AttributeID="CURBSIDE_SAT_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="BANK_CARD_AUTHORIZER">F</Value>
+                <Value AttributeID="STORE_WED_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_30" ID="3">BOTH OPTION 1 &amp; 2</Value>
+                <Value AttributeID="CURBSIDE_SUN_END_TIME" Changed="true">6:00 PM</Value>
+                <Value AttributeID="STORE_TYPE" ID="01">Store</Value>
+                <Value AttributeID="TOTAL_LF">138</Value>
+                <Value AttributeID="TRANS_FEDEX_AIR">221854853</Value>
+                <Value AttributeID="TEMP_P_ZIPCODE">33304</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_20" ID="2">ALLOW PPP SALES</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_22" ID="0">NO</Value>
+                <Value AttributeID="LAST_UPDATE_DATE">2020-12-27 00:00:00</Value>
+                <Value AttributeID="DALLAS_SVP_ID" ID="997">BILL LUTH</Value>
+                <Value AttributeID="VOLUME_TYPE" ID="2">A</Value>
+                <Value AttributeID="VOLUME_GROUP_CODE">Z-2</Value>
+                <Value AttributeID="TRADE_IN_ACCEPT_TRADE_INS" ID="0">Y</Value>
+                <Value AttributeID="BOPIS_SAT_START_TIME">10:00 AM</Value>
+                <Value AttributeID="ZIP_CODE">33304-0000</Value>
+                <Value AttributeID="TEMP_P_COUNTRY" ID="US">USA</Value>
+                <Value AttributeID="StoreID">1757</Value>
+                <Value AttributeID="S4_SITE_NO">3768</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_21" ID="6">Both 4 &amp; 2</Value>
+                <Value AttributeID="DMANAME">Miami-Ft. Lauderdale, FL</Value>
+                <Value AttributeID="TRANS_UPS">W638X1</Value>
+                <Value AttributeID="CALENDAR">US</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_42" ID="3">AMP ON (WITH EVERYDAY)</Value>
+                <Value AttributeID="DESIGN_AND_SERVICE_CENTER" ID="1">N</Value>
+                <Value AttributeID="FIPS_STATE_CODE">12</Value>
+                <Value AttributeID="BOPIS_WED_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="MTC_DATE">2022-08-03 11:38:40</Value>
+                <Value AttributeID="SALES_ORGANIZATION" ID="1007">Zale Delaware Inc</Value>
+                <Value AttributeID="COMPANY_STORE_NO">1111</Value>
+                <Value AttributeID="HIER_EFFDATE">2017-02-20</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_40" ID="0">NO</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_41" ID="0">PLU VIOLATION ONLY WARNS</Value>
+                <Value AttributeID="CSF_LP_LOSS_PREV_ANALYST">002</Value>
+                <MultiValue AttributeID="STD_SDD_APPROVAL">
+                    <Value ID="1">Y</Value>
+                </MultiValue>
+                <Value AttributeID="ECOMM_STORE_CAPACITY">7</Value>
+                <Value AttributeID="CENTER_LEVEL">1st</Value>
+                <Value AttributeID="Fulfill_Reasons">PI 10/15; </Value>
+                <Value AttributeID="PRICING_REGION">000</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_39" ID="0">NO</Value>
+                <Value AttributeID="DESIGN_TYPE">Sienna Stone</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_31" ID="0">NO</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_4" ID="2">EMG OFF, GOALS ON, SHIPPING ON</Value>
+                <Value AttributeID="BOPIS_THU_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="DUE_DAY">3</Value>
+                <Value AttributeID="STORE_FRI_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_37" ID="1">S/R GOALS VIA HP-SIS</Value>
+                <Value AttributeID="BOPIS_THU_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_38" ID="0">NEVER</Value>
+                <Value AttributeID="DESCRIPTION">ZALES JEWELERS</Value>
+                <Value AttributeID="BOPIS_SUN_START_TIME" Changed="true">11:00 AM</Value>
+                <Value AttributeID="ADDRESS_LINE_2">2332 E. SUNRISE BLVD., ste B18</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_32" ID="2">ESP BASED ON SOLD-FOR+TRADE-IN</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_5" ID="0">NO</Value>
+                <Value AttributeID="STORE_THU_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_47" ID="1">ON</Value>
+                <Value AttributeID="G_L_CASH">0</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_48" ID="1">ON</Value>
+                <Value AttributeID="SPACE_NUMBER">Ste. B18</Value>
+                <Value AttributeID="MDM_MTC_DATE" Changed="true">2023-12-10 00:22:38</Value>
+                <Value AttributeID="TEMP_P_CITY">Fort Lauderdale</Value>
+                <Value AttributeID="TANGO_ADD_DATE">2023-05-08</Value>
+                <Value AttributeID="LINEAR_FEET">138</Value>
+                <Value AttributeID="SALE_SQUARE_FEET">2056</Value>
+                <Value AttributeID="DALLAS_CVP_ID" ID="101">SHANON SALLIS</Value>
+                <Value AttributeID="BOPIS_TUE_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_36" ID="0">Non voiding store</Value>
+                <Value AttributeID="MANAGER_NAME">Ni Robinson Johnson</Value>
+                <Value AttributeID="ADI_CODE">9999</Value>
+                <Value AttributeID="HNS_NET">0</Value>
+                <Value AttributeID="DEGREE_OF_REMODEL_CODE">New</Value>
+                <Value AttributeID="DEALMAKER">Jackie Weigel</Value>
+                <Value AttributeID="PREVIOUS_SQUARE_FEET">0</Value>
+                <Value AttributeID="SALES_FLOOR_SQ_FT">2081</Value>
+                <Value AttributeID="PRESIDENTS_CLUB_LEVEL">0</Value>
+                <Value AttributeID="CAP_INDEX_SCORE">44</Value>
+                <Value AttributeID="BOPIS_FRI_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_15" ID="3">BOTH</Value>
+                <Value AttributeID="FINANCIAL_REGION_CODE" ID="21001">Zale</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_26" ID="2">NO LINE / YES PPP</Value>
+                <Value AttributeID="BOPIS_FRI_START_TIME">10:00 AM</Value>
+                <Value AttributeID="TIME_DIFFERENTIAL_CODE">3</Value>
+                <Value AttributeID="LONGITUDE">80.1150</Value>
+                <Value AttributeID="MERGED_DM" ID="165">HAGE_BRAD_DL</Value>
+                <Value AttributeID="GENERAL_COMMENTS">TEMP CLOSE: 03/18/2020 - 07/30/2020</Value>
+                <Value AttributeID="FIPS_CITY_CODE">24000</Value>
+                <Value AttributeID="OPEN_DATE">1997-11-24</Value>
+                <Value AttributeID="STORE_MON_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="STORE_MON_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_16" ID="1">STORE MUST COMPLETE ONE COUNT</Value>
+                <Value AttributeID="LOGO_CODE" ID="30">ZALES</Value>
+                <Value AttributeID="MAJOR_CITY_CODE" ID="9999">GENERIC</Value>
+                <Value AttributeID="MAX_ACCOUNT_N0">902821999</Value>
+                <Value AttributeID="VISAMC_MERCH_NO">0</Value>
+                <Value AttributeID="ARS_INSC_REGION_CODE">050</Value>
+                <Value AttributeID="SITE_CATEGORY" ID="A">Store</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_44" ID="0">ALLOW TRANSFER DEPT 11 ONLY</Value>
+                <Value AttributeID="SDD_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="FIRST_NAME">TEST A</Value>
+                <Value AttributeID="CREDIT_AUTH_CODE">1</Value>
+                <Value AttributeID="MERGED_SVP" ID="997">LUTH_BILL_DL</Value>
+                <Value AttributeID="PPP_STATE_RATE">7760</Value>
+                <Value AttributeID="REPAIR_SHOP_NO">0</Value>
+                <Value AttributeID="CSF_LP_HR_ANALYST">004</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_43" ID="2">Gift Cards on</Value>
+                <Value AttributeID="STORE_DISCOUNT_TYPE_CODE" ID="1">1</Value>
+                <Value AttributeID="STATE" ID="FL">FLORIDA</Value>
+                <Value AttributeID="TIER2_LOG_COUNT">0</Value>
+                <Value AttributeID="SIS_INTG_MTC_USER">SISHOTFOLDER</Value>
+                <Value AttributeID="MERGED_CVP" ID="101">SALLIS_SHANON_DL</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_10" ID="1">YES</Value>
+                <Value AttributeID="FLAGS_UPDATE_DATE">2021-01-14</Value>
+                <Value AttributeID="PHONE_NO_4">9542717606</Value>
+                <Value AttributeID="PRE_OWNED_AUTHORIZED" ID="1">N</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_45" ID="1">SIS 13.01 OPTIONS ON</Value>
+                <Value AttributeID="STORE_RETURN_POLICY_CODE" ID="34">34</Value>
+                <Value AttributeID="MALL_NUMBER">00852</Value>
+                <Value AttributeID="P_LONGITUDE">-80.116130</Value>
+                <Value AttributeID="MERGED_RVP" ID="174">CHENETTE_ERIKA_DL</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_46" ID="0">OFF</Value>
+                <Value AttributeID="SFS_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="ADDRESS_LINE_1">THE GALLERIA AT FORT LAUDERDAL</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_27" ID="5">HPCREDIT 1ST; CRS 2ND</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_28" ID="1">AVAILABLE</Value>
+                <Value AttributeID="LEGAL_TAX_ENTITY">710</Value>
+                <Value AttributeID="ACQUISITION_STORE">0</Value>
+                <Value AttributeID="BOPIS_SAT_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="LEASE_STATUS">Active</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_18" ID="1">YES</Value>
+                <Value AttributeID="BOPIS_MON_START_TIME">10:00 AM</Value>
+                <Value AttributeID="TOTAL_NONSALES_SF">770</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_23" ID="1">ON</Value>
+                <Value AttributeID="STORE_WED_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="BOPIS_MON_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="BANK_TRANSIT_NO">0</Value>
+                <Value AttributeID="LAST_NAME">TEST B</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_19" ID="0">DISABLED</Value>
+                <Value AttributeID="NEXT_SIS_ID">5554000133</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_29" ID="7">All on</Value>
+                <Value AttributeID="TOTAL_SQUARE_FEET">2814</Value>
+                <Value AttributeID="CORE_DIV_NBR" ID="010">ZALE US</Value>
+                <Value AttributeID="VWC">KOROSEAL AURORA #67164 WALLCOVERING</Value>
+                <Value AttributeID="SUB_DIVISION" ID="10">Zales</Value>
+                <Value AttributeID="NEW_STORE_NO">0</Value>
+                <Value AttributeID="CURBSIDE_FRI_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="TEMP_ADDRESS1">2332 E Sunrise Blvd.</Value>
+                <Value AttributeID="HOLIDAY_DOLLAR_CODE" ID="0">DEFAULT VALUE</Value>
+                <Value AttributeID="BOPIS_SUN_END_TIME" Changed="true">7:00 PM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_24" ID="1">Unused</Value>
+                <Value AttributeID="SIS_INTG_MTC_DATE">2023-02-16 19:50:04</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_2" ID="0">N/A</Value>
+                <Value AttributeID="STORE_TUE_START_TIME">10:00 AM</Value>
+                <Value AttributeID="MKT_DIV" ID="13">ZALES</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_3" ID="0">NO</Value>
+                <Value AttributeID="DIV_NO" ID="13">ZALES</Value>
+                <Value AttributeID="TEMP_P_STATE" ID="FL">FLORIDA</Value>
+                <Value AttributeID="CHECK_AUTH_CODE">1</Value>
+                <Value AttributeID="DALLAS_RVP_ID" ID="174">ERIKA CHENETTE</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_25" ID="1">DAILY HOURS CAPTURE ON</Value>
+                <Value AttributeID="NETWORK_TYPE">D</Value>
+                <Value AttributeID="PHONE_NO_6">0</Value>
+                <Value AttributeID="MDM_MTC_USER">HOURSSCHEDULE</Value>
+                <Value AttributeID="BILL_DAY">8</Value>
+                <Value AttributeID="TILE">NA</Value>
+                <Value AttributeID="HOURS_BKUP">12:00 PM</Value>
+                <Value AttributeID="WORKFLOW_SOURCE">Tango</Value>
+                <Value AttributeID="BOPIS_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <MultiValue AttributeID="SDD_APPROVAL">
+                    <Value ID="1">Y</Value>
+                </MultiValue>
+                <Value AttributeID="STORE_TUE_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="FEDEX_AC_NO">221854853</Value>
+                <Value AttributeID="TRANS_FEDEX_AUTHENTICATION_KEY">2owBueLH7dQJIJPG</Value>
+                <Value AttributeID="BANNER">ZALES</Value>
+                <Value AttributeID="DIVISION">Zales</Value>
+                <Value AttributeID="ADDRESS2">STE. B18</Value>
+                <Value AttributeID="ACCESS_POINT">UPS</Value>
+                <Value AttributeID="ARS_INSC_RATE_CODE">A</Value>
+                <Value AttributeID="CURBSIDE_FRI_START_TIME">11:00 AM</Value>
+                <Value AttributeID="STATE_LOCAL_TAX_CODE">OH002</Value>
+                <Value AttributeID="CURBSIDE_MON_VALID" ID="0">Y</Value>
+                <Value AttributeID="MODEM_2">17002345679</Value>
+                <Value AttributeID="CURBSIDE_MON_START_TIME">11:00 AM</Value>
+                <Value AttributeID="CURBSIDE_MON_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="REPAIR_PROBLEM_CODE" ID="1">1</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_1" ID="0">NO CREDIT/PPP SIG CAPTURE</Value>
+                <Value AttributeID="BRAND">Zales</Value>
+                <Value AttributeID="CURBSIDE_FRI_VALID" ID="0">Y</Value>
+                <Value AttributeID="CREATION_DATE">2019-12-29 00:00:00</Value>
+                <Value AttributeID="LOCATION_ID">1288</Value>
+                <Value AttributeID="STORE_PPP_POLICY_CODE">1</Value>
+                <Value AttributeID="STATUS" ID="01">Open</Value>
+                <Value AttributeID="CORE_BUS_SEGMENT" ID="JS">Jewelry</Value>
+                <Value AttributeID="OIEP_TRIGGER_TIME">2023-10-30 11:59:50</Value>
+                <Value AttributeID="CURBSIDE_TUE_VALID" ID="0">Y</Value>
+                <Value AttributeID="POS_DEPARTMENT_CODE">10</Value>
+                <Value AttributeID="MONUMENT">No</Value>
+                <Value AttributeID="CURBSIDE_THU_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="LEGAL_ENTITY" ID="110">ZALE DELAWARE, INC.</Value>
+                <Value AttributeID="P_COUNTY">Broward</Value>
+                <Value AttributeID="CURBSIDE_WED_START_TIME">11:00 AM</Value>
+                <Value AttributeID="CURBSIDE_WED_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="STORE_SAT_START_TIME">10:00 AM</Value>
+                <Value AttributeID="OIEP_TRIGGER_TEXT">ESI Retrigger Request</Value>
+                <Value AttributeID="EMV_MERCHANT_NO">0</Value>
+                <Value AttributeID="REPORT_FLAG">V</Value>
+                <Value AttributeID="CURBSIDE_WED_VALID" ID="0">Y</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_11" ID="7">ALL DISCOUNTING CONTROLS ON</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_35" ID="1">REGISTRATION POINTS</Value>
+                <Value AttributeID="PHONE_NO_10">0</Value>
+                <Value AttributeID="MIN_ACCOUNT_NO">902821000</Value>
+                <Value AttributeID="MALL_CODE" ID="FL82">GALLERIA @ FT. LAUDERDALE</Value>
+                <Value AttributeID="P_LATITUDE">26.137480</Value>
+                <Value AttributeID="ATTRIBUTE2">8/7/2015</Value>
+                <Value AttributeID="PHONE">9545645171</Value>
+                <Value AttributeID="LATITUDE">26.1378</Value>
+                <Value AttributeID="PHONE_NO_5">0</Value>
+                <Value AttributeID="P_COUNTRY" ID="US">US</Value>
+                <Value AttributeID="MALL_NAME">Galleria at Ft. Lauderdale</Value>
+                <Value AttributeID="CHANNEL">Mall</Value>
+                <Value AttributeID="PHONE_NO_3">9542717605</Value>
+                <Value AttributeID="ATTRIBUTE4">20.00</Value>
+                <Value AttributeID="COST_CENTER">0000175700</Value>
+                <Value AttributeID="CLOSED_HOLIDAY" ID="1">N</Value>
+                <Value AttributeID="PHONE_NO_2">9545645176</Value>
+                <Value AttributeID="BRIDALLF">28</Value>
+                <Value AttributeID="GROUPING_CODE">0002</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_13" ID="0">NONE</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_14" ID="2">GIFT RECEIPT</Value>
+                <Value AttributeID="DISTRIBUTION_CHANNEL" ID="03">Outlet</Value>
+                <Value AttributeID="UPS_AC_NO">Y810A0</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_12" ID="1">YES</Value>
+                <Value AttributeID="PHONE_NO_8">0</Value>
+                <Value AttributeID="DISCOVER_MERCH_NO">0</Value>
+                <Value AttributeID="DIV" ID="01">Signet</Value>
+                <Value AttributeID="CURBSIDE_ELIGIBLE_FLAG" ID="1">N</Value>
+                <Value AttributeID="CARPET">GROUND: GLOBAL CHANGE: STYLE #1472502500: #105543 MORNING MIST</Value>
+                <Value AttributeID="COUNTRY" ID="USA">USA</Value>
+                <Value AttributeID="ADDRESS1">2332 E SUNRISE BLVD.</Value>
+                <Value AttributeID="ATTRIBUTE5">0000001757</Value>
+                <Value AttributeID="DALLAS_DISTRICT_ID" ID="165">BRAD HAGE</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_17" ID="2">YES</Value>
+                <Value AttributeID="PHONE_NO_9">0</Value>
+                <Value AttributeID="P_ZIPCODE">33304-2500</Value>
+                <Value AttributeID="STORE_SAT_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="CBSA">Miami-Fort Lauderdale-West Palm Beach, FL Metro</Value>
+                <Value AttributeID="TRADE_IN_STANDARD_DATA" ID="0">Y</Value>
+                <Value AttributeID="CREATED_BY">0</Value>
+                <Value AttributeID="STD_ECOMM_STORE_CAPACITY">7</Value>
+                <Value AttributeID="ECOMM_STORE_PRIORITY">2</Value>
+                <Value AttributeID="PHONE_NO_7">0</Value>
+                <Value AttributeID="CSF_LP_SR_INV_MGR">019</Value>
+                <Value AttributeID="CURBSIDE_TUE_START_TIME">11:00 AM</Value>
+                <Value AttributeID="CURBSIDE_TUE_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="UWP_CODE">2</Value>
+                <Value AttributeID="ADD_DATE">2015-02-11 00:00:00</Value>
+                <Value AttributeID="P_STATE" ID="FL">FLORIDA</Value>
+                <Value AttributeID="STORE_EMAIL">TESTA.B@SignetJewelers.com</Value>
+                <MultiValue AttributeID="STD_ROADIE_COVERAGE">
+                    <Value ID="1">Y</Value>
+                </MultiValue>
+                <Value AttributeID="FIPS_COUNTY_CODE">011</Value>
+                <Value AttributeID="ACQ_DIV" ID="13">ZALES</Value>
+                <Value AttributeID="LANDLORD_NAME">JONES LANG LASALLE AMERICAS, INC.</Value>
+                <Value AttributeID="PURCHASE_ORGANIZATION" ID="1000">Signet Non-Merch.</Value>
+                <Value AttributeID="BOPIS_WED_START_TIME">10:00 AM</Value>
+                <Value AttributeID="ACQUISITION_CODE">ZA</Value>
+                <Value AttributeID="BANK_ACCT_NO">0</Value>
+                <Value AttributeID="SIS_STOREID">5554</Value>
+                <Value AttributeID="CSF_LP_INV_MGR">025</Value>
+                <Value AttributeID="MTC_USER">EKENEPP</Value>
+                <Value AttributeID="SAP_COMPANY_CODE" ID="1007">Zale Delaware Inc</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_9" ID="0">All AuthCodes require Cust Car</Value>
+                <Value AttributeID="DALLAS_VPRO_EMAIL">Erika.Chenette@signetjewelers.com</Value>
+                <Value AttributeID="REGION_2">FL</Value>
+                <Value AttributeID="CPU_NUMBERS">1</Value>
+                <Value AttributeID="STORE_CONTROL_CODE">1</Value>
+                <Value AttributeID="LEASE_EFFECTIVE">2008-01-01</Value>
+                <Value AttributeID="CURBSIDE_THU_VALID" ID="0">Y</Value>
+                <Value AttributeID="SHOPPINGCENTERNAME">Galleria at Ft. Lauderdale</Value>
+                <Value AttributeID="STORE_THU_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="CURBSIDE_THU_START_TIME">11:00 AM</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_8" ID="5">COMBINED 1 &amp; 4</Value>
+                <Value AttributeID="STORE_FRI_START_TIME">10:00 AM</Value>
+                <Value AttributeID="STORE_SUN_END_TIME" Changed="true">7:00 PM</Value>
+                <Value AttributeID="CHANNEL_BANNER">Zales Mall</Value>
+                <Value AttributeID="MODEM_1">19545645147</Value>
+                <Value AttributeID="STD_SFS_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="COMPANY_CODE" ID="10">DALLAS</Value>
+                <Value AttributeID="RETURN_TICKET_DAYS">999</Value>
+                <Value AttributeID="DALLAS_DM_EMAIL">Brad.Hage@signetjewelers.com</Value>
+                <Value AttributeID="P_CITY">FORT LAUDERDALE</Value>
+                <Value AttributeID="CPU_TYPE">7459</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_33" ID="3">Promo on and 1</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_34" ID="1">ON (NEW)</Value>
+                <Value AttributeID="STD_SDD_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="CITY">Fort Lauderdale</Value>
+                <Value AttributeID="CLOSE_DD">8</Value>
+                <Value AttributeID="TIMEZONE" ID="1">EST</Value>
+                <Value AttributeID="PARAPET">No</Value>
+                <Value AttributeID="TOP_LOG_COUNT">0</Value>
+                <Value AttributeID="LEASE_EXPIRATION_DATE">2024-12-31</Value>
+                <Value AttributeID="STD_ECOMM_STORE_PRIORITY">2</Value>
+                <Value AttributeID="MODEM_TYPE">TBIT</Value>
+                <Value AttributeID="ATTRIBUTE10">Galleria at Ft. Lauderdale</Value>
+                <Value AttributeID="STORE_SUN_START_TIME" Changed="true">11:00 AM</Value>
+                <MultiValue AttributeID="ROADIE_COVERAGE">
+                    <Value ID="1">Y</Value>
+                </MultiValue>
+                <Value AttributeID="S4_SITE_NO_CALC" Derived="true">1757</Value>
+                <Value AttributeID="STORE_NAME_HEADER" Derived="true">1757 - ZALES JEWELERS</Value>
+                <Value AttributeID="STORE_SUB_HEADER" Derived="true">Manager: Raikel Gonzalez Lorenzo</Value>
+            </Values>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>

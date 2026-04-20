@@ -1,0 +1,29 @@
+<STEP-ProductInformation ExportTime="2022-04-08 03:56:13" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+  <Entities>
+    <Entity ID="2333140" UserTypeID="DALLAS_CVP" ParentID="2333134" Changed="true">
+      <Name Changed="true">130 - AL WALIZADEH</Name>
+      <Values>
+        <Value AttributeID="S4_HIE_HIER_ID">DL_HIER_998</Value>
+        <Value AttributeID="ODS_HIER_CREATED_BY">FF_SAP_ALL26</Value>
+        <Value AttributeID="S4_HIER_ID">DL_HIER_130</Value>
+        <Value AttributeID="ODS_LAST_UPDATE_LOGIN" Changed="true">JATEST</Value>
+        <Value AttributeID="Last Name">WALIZADEH</Value>
+        <Value AttributeID="LEG_SYS_ID">ORCL</Value>
+        <Value AttributeID="HIER_EFFDATE">2017-06-15</Value>
+        <Value AttributeID="HIER_LEVEL">1</Value>
+        <Value AttributeID="ODS_HIER_COST_CENTER">08269</Value>
+        <Value AttributeID="DALLAS_SVP_ID" Changed="true" ID="998">KECIA CAFFIE</Value>
+        <Value AttributeID="DALLAS_HIERARCHY_CVP_ID">130</Value>
+        <Value AttributeID="CREATION_DATE">2020-07-18 00:00:00</Value>
+        <Value AttributeID="HIER_AREA_DESC">130</Value>
+        <Value AttributeID="ENABLED_FLAG">Y</Value>
+        <Value AttributeID="HIER_TERRITORY">PIERCING PAGODA</Value>
+        <Value AttributeID="First Name">AL</Value>
+        <Value AttributeID="ACTIVE_FLAG">Y</Value>
+      </Values>
+    </Entity>
+  </Entities>
+</STEP-ProductInformation>
+                        
+                        
+                        

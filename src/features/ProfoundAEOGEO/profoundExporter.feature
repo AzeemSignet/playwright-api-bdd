@@ -1,0 +1,28 @@
+# Feature: Profound Exporter Interface
+# Purpose: Validate Health Check of Profound Health Check Interface
+@profoundExporterHealthcheck @profoundaeogeohealthcheck
+Feature: Profound Prompt Exporter API Validation
+
+  @smoke @positive @regression
+  # TC_001 Confirms a valid exporter health check request returns a 2xx response.
+  Scenario: TC_001 Validate successful Profound Exporter API response
+    Given API authentication header is "" present  
+    | Content-Type       | application/json                      |                         
+    When I print request body converted to json from "PROFOUND_AEO_GEO_HEALTHCHECK_REQ_BODY"
+    And I send a "POST" request to "PROFOUND_PROMPT_EXPORTER" with request body from "PROFOUND_AEO_GEO_HEALTHCHECK_REQ_BODY"
+    And I print the response
+    Then response status should be "2xx"
+    And response should contain key "status" with value "ok"
+    And response should contain key "resources[1].name" with value "Configuration"
+
+  @smoke @positive @regression @exphappypath
+  # TC_002 Confirms a valid exporter response with valid request.
+  Scenario: TC_002 Validate successful Profound Exporter API response
+    Given API authentication header is "" present  
+    | Content-Type       | application/json                      |                         
+    When I print request body converted to json from "PROFOUND_AEO_GEO_EXPORTER_REQ_BODY"
+    And I send a "POST" request to "PROFOUND_PROMPT_EXPORTER_API" with request body from "PROFOUND_AEO_GEO_EXPORTER_REQ_BODY"
+    And I print the response
+    Then response status should be "2xx"
+    And response should have key "document_key"
+    And response should contain key "wasPosted" with value "true"

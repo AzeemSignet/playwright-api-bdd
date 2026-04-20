@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test XML with INVALID values for validation testing -->
+<!-- This file intentionally contains multiple validation errors -->
+<STEP-ProductInformation ExportTime="2023-12-10 01:35:48" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <!-- Entity with INVALID values -->
+        <Entity ID="ABC123" UserTypeID="STORE" ParentID="ZALES">
+            <!-- ERROR: ID should be numeric only, but has letters -->
+            
+            <Name></Name>
+            <!-- ERROR: Name is empty but required (1-256 characters) -->
+            
+            <Values>
+                <!-- ERROR: Longitude exceeds valid range (-180 to 180) -->
+                <Value AttributeID="TEMP_P_LONGITUDE">250.99999999</Value>
+                
+                <!-- ERROR: Latitude below valid range (-90 to 90) -->
+                <Value AttributeID="TEMP_P_LATITUDE">-95.5555555</Value>
+                
+                <!-- ERROR: Invalid ZIP code format (should be 12345 or 12345-6789) -->
+                <Value AttributeID="TEMP_P_ZIPCODE">123ABCDE</Value>
+                
+                <!-- ERROR: Store name too long (max 100 characters) -->
+                <Value AttributeID="STORE_NAME">This is an extremely long store name that exceeds the maximum allowed length of one hundred characters for testing validation rules</Value>
+                
+                <!-- ERROR: StoreID should be numeric -->
+                <Value AttributeID="StoreID">STORE_ABC</Value>
+                
+                <!-- ERROR: Invalid date format -->
+                <Value AttributeID="LAST_UPDATE_DATE">not-a-valid-date</Value>
+                
+                <!-- ERROR: Invalid ZIP code format (missing dash) -->
+                <Value AttributeID="ZIP_CODE">333040000</Value>
+                
+                <!-- ERROR: Negative store capacity (should be positive) -->
+                <Value AttributeID="ECOMM_STORE_CAPACITY">-5</Value>
+                
+                <!-- Valid values mixed in -->
+                <Value AttributeID="CURBSIDE_SAT_VALID" ID="0">Y</Value>
+                <Value AttributeID="TRANS_FEDEX_GROUND">219077</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_7" ID="0">NO</Value>
+                <Value AttributeID="TOTAL_DSC_SF">0</Value>
+                <Value AttributeID="CURBSIDE_SUN_VALID" ID="0">Y</Value>
+                <Value AttributeID="STANDUP_LF">110</Value>
+                <Value AttributeID="BOPIS_TUE_END_TIME" Changed="true">9:00 PM</Value>
+                <Value AttributeID="LIFETIME_BATTERY_PRICE_CODE">4</Value>
+                <Value AttributeID="STD_BOPIS_ELIGIBLE_FLAG" ID="0">Y</Value>
+                <Value AttributeID="LAST_UPDATED_BY">0</Value>
+                <Value AttributeID="Profit_Center">1757</Value>
+                <Value AttributeID="SHOPPING_CENTER">FL0300</Value>
+                <Value AttributeID="TRANS_FEDEX_METER_NUMBER">104033372</Value>
+                <Value AttributeID="STORE_SYSTEM_FLAG_6" ID="2">New Holiday dollars Active</Value>
+                <Value AttributeID="CURBSIDE_SAT_START_TIME">11:00 AM</Value>
+                <Value AttributeID="STD_CURBSIDE_ELIGIBLE_FLAG" ID="1">N</Value>
+                <Value AttributeID="MANAGEMENT_COMPANY">JLL</Value>
+                <Value AttributeID="LOCATION_CODE">01757</Value>
+                <Value AttributeID="MALL_GRADE">A-</Value>
+                <Value AttributeID="REGION_1">Broward</Value>
+                <Value AttributeID="TANGO_STORE_ID">129750</Value>
+                <Value AttributeID="AMEX_MERCH_NO">0</Value>
+                <Value AttributeID="CURBSIDE_SUN_START_TIME" Changed="true">12:00 PM</Value>
+                <Value AttributeID="CENTER_TYPE">Enclosed Mall/Outlet Center</Value>
+                <Value AttributeID="TANGO_ADD_USER">Administrator</Value>
+                <Value AttributeID="SITE_TYPE">Mall</Value>
+                <Value AttributeID="CURBSIDE_SAT_END_TIME" Changed="true">8:00 PM</Value>
+                <Value AttributeID="BANK_CARD_AUTHORIZER">F</Value>
+                <Value AttributeID="STORE_WED_START_TIME">10:00 AM</Value>
+            </Values>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>

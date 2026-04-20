@@ -1,0 +1,7 @@
+ElementType,AttributeID,ID,Changed,Derived,Value,EntityID,UserTypeID,ParentID,EntityName,ExportTime,ExportContext,ContextID,WorkspaceID,UseContextLocale
+Value,TEMP_P_LONGITUDE,,,,-80.11311417,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE
+Value,CURBSIDE_SAT_VALID,0,,,Y,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE
+Value,Profit_Center,,,,1757,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE
+Value,SHOPPING_CENTER,,,,FL0300,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE
+Value,STORE_NAME,,,,ZALES JEWELERS,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE
+Value,LAST_UPDATE_DATE,,,,12-27-20,291403341,STORE,ZALES,1757,12/10/23 1:35,Context1,Context1,Approved,FALSE

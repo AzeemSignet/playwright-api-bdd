@@ -1,0 +1,121 @@
+{
+  "employee": {
+    "id": "123456787",
+    "supportCenterMember": false,
+    "identifier": [
+      {
+        "id": "123456787",
+        "idType": "employeeId",
+        "source": "Workday"
+      },
+      {
+        "id": "567",
+        "idType": "preHireId",
+        "source": "Workday"
+      }
+    ],
+    "name": [
+      {
+        "firstName": "Donald",
+        "middleName": "",
+        "lastName": "Duck",
+        "type": "preferred"
+      },
+      {
+        "firstName": "Donald",
+        "middleName": "",
+        "lastName": "Duck",
+        "type": "legal"
+      }
+    ],
+    "contact": [
+      {
+        "emailAddress": "donald@waltDisney.com",
+        "type": "work"
+      },
+      {
+        "emailAddress": "",
+        "type": "mobile"
+      }
+    ],
+    "address": [
+      {
+        "addressLine1": "",
+        "addressLine2": "",
+        "state": "",
+        "country": "",
+        "type": "home"
+      },
+      {
+        "addressLine1": "",
+        "addressLine2": "",
+        "state": "",
+        "country": "",
+        "type": "office"
+      }
+    ],
+    "employment": {
+      "workerType": {
+        "value": "Employee/Contigent"
+      },
+      "employmentType": {
+        "employeeType": "Regular",
+        "timeType": "Full Time",
+        "payRateType": "Salary/hourly"
+      },
+      "employmentStatus": {
+        "employeestatus": "Active/Terminated/Rescinded Hire",
+        "onLeave": false
+      },
+      "employmentHistory": {
+        "originalHireDate": "01/01/2024",
+        "lastTerminationDate": "02/29/2024",
+        "mostRecentHireDate": "05/01/2024"
+      },
+      "costCenter": {
+        "id": "03748",
+        "description": "Zales Mansfield, TX",
+        "harmonizedId": "",
+        "harmonizedDescription": ""
+      },
+      "workLocation": [
+        {
+          "workCountry": {
+            "workCountryAlpha2": "CN",
+            "workCountryAlpha3": "CAN",
+            "locations": [
+              {
+                "locationNumber": "(Enriched/Added by ESI) SAP location - 03748",
+                "legacyLocationNumber": "03748",
+                "locationName": "03748 - Zales Mansfield, TX",
+                "effectiveDate": "01/01/2025"
+              }
+            ]
+          }
+        }
+      ],
+      "organization": [
+        {
+          "companyCode": "1007",
+          "companyName": "Zale Delaware, Inc."
+        }
+      ],
+      "reportsTo": [
+        {
+          "managerId": "",
+          "effectiveDate": ""
+        }
+      ],
+      "job": {
+        "profileId": "9120",
+        "profileName": "Mall Store Manager",
+        "position": "Mall Store Manager - smgr (123)",
+        "jobFamily": "Mall - Management",
+        "jobFamilyGroup": "Field Operations",
+        "managementLevel": "Manager",
+        "positionChangeDate": "",
+        "jobHistoryChangeDate": ""
+      }
+    }
+  }
+}
