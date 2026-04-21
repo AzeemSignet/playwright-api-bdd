@@ -31,3 +31,13 @@ Feature: Profound Prompt Consumer API Validation
     Then response status should be "2xx"
     And response should have key "document_key"
     And response should contain key "wasPosted" with value "true"
+
+  @smoke @negative @regression @exception
+  # TC_003 Confirms a invalid exporter response with VPN disconnected.
+  Scenario: TC_003 Confirms a invalid exporter response with VPN disconnected.
+    Given API authentication header is "" present  
+    | Content-Type       | application/json                      |                         
+    When I print request body converted to json from "PROFOUND_AEO_GEO_CONSUMER_REQ_BODY"
+    And I send a "POST" request to "PROFOUND_PROMPT_CONSUMER_API" with request body from "PROFOUND_AEO_GEO_CONSUMER_REQ_BODY"
+    And I print the response
+    Then response status should be "4xx"
