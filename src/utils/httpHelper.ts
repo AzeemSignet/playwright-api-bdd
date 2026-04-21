@@ -535,7 +535,10 @@ export async function readFixtureFile(fixturePath: string): Promise<string> {
   const cached = fixtureCache.get(fullPath);
   const raw = cached ?? await fs.readFile(fullPath, 'utf8');
   if (!cached) fixtureCache.set(fullPath, raw);
-  return raw.replace(/\{\{NOW\}\}/g, new Date().toISOString());
+  const tomorrow = new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString();
+  return raw
+    .replace(/\{\{NOW\}\}/g, new Date().toISOString())
+    .replace(/\{\{TOMORROW\}\}/g, tomorrow);
 }
 
 export async function convertRequestBodyToJson(bodyText: string): Promise<any> {

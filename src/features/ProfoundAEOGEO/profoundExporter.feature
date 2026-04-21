@@ -36,3 +36,13 @@ Feature: Profound Prompt Exporter API Validation
     And I send a "POST" request to "PROFOUND_PROMPT_EXPORTER_API" with request body from "PROFOUND_AEO_GEO_EXPORTER_REQ_BODY"
     And I print the response
     Then response status should be "4xx"
+
+  @smoke @positive @regression @futuredate
+  # TC_004 Confirms exporter response with future trigger_time (today+1).
+  Scenario: TC_004 Validate successful Profound Exporter API response with future date
+    Given API authentication header is "" present  
+    | Content-Type       | application/json                      |                         
+    When I print request body converted to json from "PROFOUND_AEO_GEO_EXPORTER_FUT_REQ_BODY"
+    And I send a "POST" request to "PROFOUND_PROMPT_EXPORTER_API" with request body from "PROFOUND_AEO_GEO_EXPORTER_FUT_REQ_BODY"
+    And I print the response
+    Then response status should be "4xx"

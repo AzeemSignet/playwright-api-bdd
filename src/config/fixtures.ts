@@ -12,6 +12,7 @@ export const FIXTURES: Record<string, string> = {
   DOM_CONSUMER_VALID_REQ_BODY:'fixtures/domConsumerValidReqBody.json',
   PROFOUND_AEO_GEO_HEALTHCHECK_REQ_BODY:'fixtures/empty_request.json',  
   PROFOUND_AEO_GEO_EXPORTER_REQ_BODY:'fixtures/profoundexporter.json', 
+  PROFOUND_AEO_GEO_EXPORTER_FUT_REQ_BODY:'fixtures/profoundexporter_fut.json', 
   PROFOUND_AEO_GEO_PRODUCER_REQ_BODY:'fixtures/profoundproducer.json', 
   PROFOUND_AEO_GEO_CONSUMER_REQ_BODY:'fixtures/profoundconsumer.json', 
 };
