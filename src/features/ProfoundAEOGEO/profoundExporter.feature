@@ -47,7 +47,7 @@ Feature: Profound Prompt Exporter API Validation
     And I print the response
     Then response status should be "4xx"
 
-  @smoke @positive @regression @pastdate
+  @smoke @negative @regression @pastdate
   # TC_005 Confirms a valid exporter response with valid request - past, no data.
   Scenario: TC_002 Validate successful Profound Exporter API response past date, no data
     Given API authentication header is "" present  
