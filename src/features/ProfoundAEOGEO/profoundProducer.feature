@@ -34,7 +34,10 @@ Feature: Profound Prompt Producer API Validation
   # TC_003 Confirms a invalid exporter response with VPN disconnected.
   Scenario: TC_003 Confirms a invalid exporter response with VPN disconnected.
     Given API authentication header is "" present  
-    | Content-Type       | application/json                      |                         
+    | Content-Type       | application/json                      |
+    | Producer-Key       | esi_profound_to_sams_for_prompt_dfd                      |                         
+    | Chunk-Id           | 1773071207871                                            |                         
+    | Batch-Key          | e9afc009-68e5-49dd-ab16-85618c56e3ed                     |                        
     When I print request body converted to json from "PROFOUND_AEO_GEO_PRODUCER_REQ_BODY"
     And I send a "POST" request to "PROFOUND_PROMPT_PRODUCER_API" with request body from "PROFOUND_AEO_GEO_PRODUCER_REQ_BODY"
     And I print the response

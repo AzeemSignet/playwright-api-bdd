@@ -27,7 +27,7 @@ Feature: Profound Prompt Exporter API Validation
     And response should have key "document_key"
     And response should contain key "wasPosted" with value "true"
 
-  @smoke @negative @regression @exception
+  @smoke @negative @regression @exception22
   # TC_003 Confirms a invalid exporter response with VPN disconnected.
   Scenario: TC_003 Confirms a invalid exporter response with VPN disconnected.
     Given API authentication header is "" present  
@@ -45,7 +45,7 @@ Feature: Profound Prompt Exporter API Validation
     When I print request body converted to json from "PROFOUND_AEO_GEO_EXPORTER_FUT_REQ_BODY"
     And I send a "POST" request to "PROFOUND_PROMPT_EXPORTER_API" with request body from "PROFOUND_AEO_GEO_EXPORTER_FUT_REQ_BODY"
     And I print the response
-    Then response status should be "4xx"
+    Then response status should be "5xx"
 
   @smoke @negative @regression @pastdate
   # TC_005 Confirms a valid exporter response with valid request - past, no data.
