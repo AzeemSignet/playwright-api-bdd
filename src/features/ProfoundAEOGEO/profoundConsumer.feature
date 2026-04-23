@@ -32,7 +32,7 @@ Feature: Profound Prompt Consumer API Validation
     And response should have key "document_key"
     And response should contain key "wasPosted" with value "true"
 
-  @smoke @negative @regression @exception33
+  @smoke @negative @regression @exception
   # TC_003 Confirms a invalid exporter response with VPN disconnected.
   Scenario: TC_003 Confirms a invalid exporter response with VPN disconnected.
     Given API authentication header is "" present  
